@@ -49,6 +49,13 @@ const members = [
     githubUrl: 'https://github.com/Lvshaomei',
     blogUrl: 'http://www.lvshaomei.club/',
   }
+  {
+    name: 'liang',
+    avatar: https://avatars.githubusercontent.com/u/67368157?s=400&v=4,
+    description: '从菜鸡到大神',
+    githubUrl:'https://github.com/010505',
+    blogUrl: 'https://github.com/010505/official-website',
+  }
 ];
 
 export default members;
